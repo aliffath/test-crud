@@ -39,7 +39,7 @@ If you want to run this project locally
 
 ## Try Our Web Application
 
-<a href="https://test-slicing.vercel.app/">Launch to our App</a>
+<a href="https://test-crud-theta.vercel.app/">Launch to our App</a>
 
 ## Contact
 
