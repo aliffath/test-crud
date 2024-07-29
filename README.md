@@ -1,40 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Built With
 
-## Getting Started
+This app was built with some technologies below:
 
-First, run the development server:
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Next JS](https://nextjs.org/)
+- [Axios](https://axios-http.com/docs/intro)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Daisy UI](https://daisyui.com/)
+- [React Toastify](https://www.npmjs.com/package/react-toastify)
+- [React Flatpickr](https://flatpickr.js.org/)
+- [Formik](https://formik.org/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+### Prerequisites
+
+Before going to the installation stage there are some software that must be installed first.
+
+- **NodeJS**, I'm using **v18.16.0** when this docs is uploaded. You can download NodeJS in https://nodejs.org/en/download
+
+## Installation
+
+If you want to run this project locally
+
+- Install Module
+
+```
+  npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Setup .env
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```
+ NEXT_PUBLIC_API_URL =
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Setup mockoon
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Type `npm run dev` To Start Website
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Try Our Web Application
 
-## Learn More
+<a href="https://test-slicing.vercel.app/">Launch to our App</a>
 
-To learn more about Next.js, take a look at the following resources:
+## Contact
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Email : [`alifmiftakhulfatah@gmail.com`](mailto:alifmiftakhulfatah@gmail.com)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- LinkedIn : [`/in/alif-miftakhul-fatah/`](https://www.linkedin.com/in/alif-miftakhul-fatah/)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- GitHub : [`aliffath`](https://github.com/aliffath)
